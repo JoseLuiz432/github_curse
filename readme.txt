@@ -1,0 +1,1 @@
+Este txt e para ensinar como o git funciona
